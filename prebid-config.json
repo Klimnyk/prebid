@@ -1,0 +1,12 @@
+{
+  "version": "10.21.0",
+  "modules": [
+    "mediaimpactBidAdapter",
+    "consentManagementGpp",
+    "consentManagementTcf",
+    "gptPreAuction",
+    "storageControl",
+    "tcfControl",
+    "priceFloors"
+  ]
+}
